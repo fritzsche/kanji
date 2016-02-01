@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Willkomen in der Welt der Kanji"
 date:   2016-02-01 22:50:50 +0100
 categories: jekyll update
 ---
